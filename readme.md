@@ -21,5 +21,5 @@ kedvenc képem **itt**
 ![kep](https://nyuszis.kepek1.hu/kep/nyuszis-kepek_20.jpg)
  
  
-~~vicceltem~~
+~~millio trillio dollaros cegek hivjanak batran~~
 
