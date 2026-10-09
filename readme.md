@@ -1,18 +1,20 @@
 # Hello világ! Bálint vagyok!
-## dolgok
+## dolgok amiket szeretek
  
 1. zene
 2. bona
  
 [kedvenc oldalam](https://petrik.hu)
 
-##### kód tudásom: [^1]
+##### kód tudásom: 
+
+
 ```py
 hello vilag("print")
  
 ```
  
-hol az emoji ?? :joy:
+hol az emoji ?? :smile:
  
 kedvenc képem **itt**
  
@@ -21,4 +23,3 @@ kedvenc képem **itt**
  
 ~~vicceltem~~
 
-[^1]: haha amúgy nem
