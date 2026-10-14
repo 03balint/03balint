@@ -1,4 +1,4 @@
-#$$\dagger$$Hello világ! Bálint vagyok!$$\dagger$$
+# $$\dagger$$ Hello világ! Bálint vagyok! $$\dagger$$
 ## dolgok amiket szeretek
  
 1. zene
