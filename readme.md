@@ -1,4 +1,4 @@
-# Hello világ! Bálint vagyok!
+# Hello világ! Bálint vagyok! $$\star$$
 ## dolgok amiket szeretek
  
 1. zene
@@ -24,7 +24,7 @@ kedvenc képem **itt**
 ~~millio trillio dollaros cegek hivjanak batran~~
 
 $$
-\sin 60
+\alpha \beta \gamma \Downarrow
 $$
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=03balint)](https://github.com/anuraghazra/github-readme-stats)
