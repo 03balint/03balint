@@ -6,6 +6,9 @@
  
 [kedvenc oldalam](https://petrik.hu)
 
+####legnagyobb achievementem:
+4 pr fortnite zero build 2024-ben
+
 ##### kód tudásom: 
 
 
